@@ -33,28 +33,26 @@
 
 ## :mag_right: Design
 
-### Branding
-
 <div align="center">
+
+  ### Branding
   <img src="./src/branding/colors.png" alt="logo" width="500" height="auto" />
   <img src="./src/branding/logos.png" alt="logo" width="500" height="auto" />
 </div>
 
-### Landing page
-
 <div align="center">
+
+  ### Landing page
   <img src="./src/web/dark-fullscreen.png" alt="logo" width="500" height="auto" />
   <img src="./src/web/light-fullscreen.png" alt="logo" width="500" height="auto" />
-</div>
 
-<div align="center">
   <img src="./src/web/dark-responsive.png" alt="logo" height="auto" />
   <img src="./src/web/light-responsive.png" alt="logo" height="auto" />
 </div>
 
-### Mobile
-
 <div align="center">
+
+  ### Mobile
 
   ### Welcome / Login
   <img src="./src/mobile/welcome.png" alt="logo" height="500" />
