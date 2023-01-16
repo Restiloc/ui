@@ -43,9 +43,12 @@
 <div align="center">
 
   ### Landing page
+
+  #### Desktop
   <img src="./src/web/dark-fullscreen.png" alt="logo" width="500" height="auto" />
   <img src="./src/web/light-fullscreen.png" alt="logo" width="500" height="auto" />
 
+  #### Responsive
   <img src="./src/web/dark-responsive.png" alt="logo" height="auto" />
   <img src="./src/web/light-responsive.png" alt="logo" height="auto" />
 </div>
@@ -54,15 +57,15 @@
 
   ### Mobile
 
-  ### Welcome / Login
+  #### Welcome / Login
   <img src="./src/mobile/welcome.png" alt="logo" height="500" />
   <img src="./src/mobile/login.png" alt="logo" height="500" />
   
-  ### Application UI
+  #### Application UI
 
   <img src="./src/mobile/experience.png" alt="logo" height="auto" />
 
-  ### Navigation / Settings
+  #### Navigation / Settings
   <img src="./src/mobile/bottom-navigation.png" alt="logo" height="500" />
   <img src="./src/mobile/settings.png" alt="logo" height="500" />
 </div>
