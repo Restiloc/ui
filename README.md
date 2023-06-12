@@ -11,7 +11,7 @@
 <a href="https://github.com/Restiloc/docs"><strong>Documentation »</strong></a>
 
 <h4>
-    <a href="https://restiloc.space">Go to the site</a>
+    <a href="https://restiloc.github.io/landing/">Go to the site</a>
   <span> · </span>
     <a href="https://github.com/Restiloc/restiloc">Report a bug</a>
   <span> · </span>
